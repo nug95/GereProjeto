@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1491275005 source:c:\users\nug\documents\trabalhos\c++\files\gereprojeto\main.cpp
+	"liga.h"
+
+1491275449 c:\users\nug\documents\trabalhos\c++\files\gereprojeto\liga.h
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<stdio.h>
+	"cliente.h"
+
+1491275704 c:\users\nug\documents\trabalhos\c++\files\gereprojeto\cliente.h
+
